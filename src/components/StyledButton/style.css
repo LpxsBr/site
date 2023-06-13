@@ -1,9 +1,0 @@
-a{
-    border: 2px solid black;
-    width: 100px;
-    height: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 10px;
-}

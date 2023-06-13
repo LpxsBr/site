@@ -1,1 +1,0 @@
-exports = './StyledButton.jsx'
