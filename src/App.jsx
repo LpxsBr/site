@@ -61,10 +61,10 @@ function App() {
       }
 
       <div className='whoiam'>
-        <h1>Olá, me chamo Anselmo Lopes</h1>
+        <h1>Olá, me chamo Anselmo Lopes e este site está em construção</h1>
       </div>
       <div className='whatiam'>
-        <h1>Sou {word}</h1>
+        <h2>mas acho que vc precisa saber q eu sou {word}</h2>
       </div>
       <div className='network'>
         <h3>Redes</h3>
